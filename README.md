@@ -111,12 +111,30 @@ Project is created using:
    
    ```$ git clone https://github.com/ReubenJoe/spamIO.git```
    
-4. Download the required datasets from the links provided below.
+4. Download the required datasets from the links provided in the <a href="#dataset-description">Dataset Description</a>.
 5. Place the dataset ``.csv`` file in the same level as that of the  ``.ipynb`` file (as shown in the project structure).
 6. Execute the file using the following commands:
 
     ```$ ipython --TerminalIPythonApp.file_to_run='Image_Feature_spam.ipynb'```<br>
     ```$ ipython --TerminalIPythonApp.file_to_run='Text_Based_Spam.ipynb'```
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Implementation Screenshots
+### Input for Text Spam
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/92254224/173565015-001bbdca-f1d6-4bd2-a8e2-990999716de8.png">
+
+### Input for Image Spam
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/92254224/173565062-b1966f6c-6c69-45f6-b550-d6492aa68490.png">
+
+### Text Spam Detection
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/92254224/173565083-81c26ced-1f46-49d6-aa9f-26c3878145dc.png">
+
+### Image Spam Detection
+<img width="700" height="500" alt="image" src="https://user-images.githubusercontent.com/92254224/173565204-ff29aa3a-49ad-4d8a-88d0-9a5eab5d210f.png">
+
+### Image Ham Detection
+<img width="700" height="600" alt="image" src="https://user-images.githubusercontent.com/92254224/173565275-89744b86-a082-4c5e-ac52-4f8ce833b26b.png">
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Results
